@@ -1,4 +1,5 @@
 # kickstarter-analysierg
 
 sdfg
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+![alt text](https://github.com/gregglegarda/kickstarter-analysierg/fish.png?raw=true)
